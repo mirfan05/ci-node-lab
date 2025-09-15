@@ -1,0 +1,1 @@
+[![Node CI](https://github.com/mirfan05/ci-node-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/mirfan05/ci-node-lab/actions/workflows/ci.yml)
